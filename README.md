@@ -1,28 +1,21 @@
-### Hi there 👋
+### 
+Welp! Hi there,
 
-My NAME IS Audrey and I am a Chemical Engineer👩‍🔬 turned Software Engineer 👩‍💻
+Welcome to my creative space
 
-Here are some ideas to get you started:
+My name is Audrey and I am a Chemical Engineer👩‍🔬 turned Software Engineer 👩‍💻
 
-- 🔭 I’m currently working on a personal generative AI
-- 🌱 I’m currently learning  WinUI 3 Apps using C#
-- 👯 I’m looking to collaborate on short term projects
-- 🤔 I’m looking for help with learnign new things, if you stop learnign you start dying.
-- 💬 Ask me about what I am currently learning.
-- 📫 How to reach me: audreyjezy@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love learning new things, and I love playing basketball
+[![Audrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=audrey-roe&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<h2 align="center">🌟 Featured Projects</h2>
+<h2 align="center">So you came to see some projects? Here you go then.</h2>
 
 <p align="center">
-  ✨ Here are some of the stars of my GitHub universe:
+  ✨Oh! and you know how personal projects never gets finished? So try not to judge
 </p>
 
-- [Project 1](https://github.com/your-username/project-1): A groundbreaking project that changed the game.
-- [Project 2](https://github.com/your-username/project-2): Where innovation meets imagination.
-- [Project 3](https://github.com/your-username/project-3): Solving real-world problems one line of code at a time.
+- [Tongues]((https://github.com/audrey-roe/Tongue)): A Win UI 3 app that will translate a couple of languages.
+- [Cloud Guardian](https://github.com/audrey-roe/cloud-test): This is a cloud storage project, quite a simple solution.
+- [Ziga](https://github.com/audrey-roe/ziga-mobile/tree/master): Solving real-world problems one line of code at a time.
 
 <h2 align="center">🚀 Let's Collaborate</h2>
 
