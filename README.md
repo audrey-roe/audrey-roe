@@ -19,15 +19,9 @@ My name is Audrey and I am a Chemical Engineer👩‍🔬 turned Software Engine
 
 <h2 align="center">🚀 Let's Collaborate</h2>
 
-<p>
-  💬 I'm always up for a chat and open to collaborations. If you have an idea or a project in mind, let's make it happen!
-</p>
+💬 I'm always up for a chat and open to collaborations. If you have an idea or a project in mind, let's make it happen!
 
-<p >
-  📫 Reach out to me at your.email@example.com or connect with me on [LinkedIn](https://www.linkedin.com/in/your-username).
-</p>
+📫 Reach out to me at audreyjezy@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/ogonna-ezeonyedika-7b8686175).
 
-<p >
-  🌐 For more about me and my work, visit my [portfolio website](https://your-portfolio-website.com).
-</p>
+🌐 For more about me and my work, visit my [portfolio website](https://audrey-roe.github.io/my-portfolio/).
 
