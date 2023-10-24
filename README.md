@@ -15,7 +15,7 @@ My name is Audrey and I am a Chemical Engineer👩‍🔬 turned Software Engine
 
 - [Tongues](https://github.com/audrey-roe/Tongue): A Win UI 3 app that will translate a couple of languages.
 - [Cloud Guardian](https://github.com/audrey-roe/cloud-test): This is a cloud storage project, quite a simple solution.
-- [Ziga](https://github.com/audrey-roe/ziga-mobile/tree/master): Solving real-world problems one line of code at a time.
+- [Ziga](https://github.com/audrey-roe/ziga-mobile/tree/master): Solving logistics problems one line of code at a time.
 
 <h2 align="center">🚀 Let's Collaborate</h2>
 
