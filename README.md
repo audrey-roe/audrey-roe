@@ -4,7 +4,7 @@ My name is Audrey and I am a Chemical Engineer👩‍🔬 turned Software Engine
 
 <h2 align="center">Top Laguages.</h2>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=audrey-roe)(https://github.com/anuraghazra/github-readme-stats) -->
-![Audrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=audrey-roe&show_icons=true&theme=radical)
+<!-- ![Audrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=audrey-roe&show_icons=true&theme=radical) -->
 <h2 align="center">So you came to see some projects? Here you go then.</h2>
 
 <p align="center">
