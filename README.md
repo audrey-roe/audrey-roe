@@ -1,10 +1,10 @@
 <h1>Welp! Hi there</h1>
 My name is Audrey and I am a Chemical Engineer👩‍🔬 turned Software Engineer 👩‍💻
 
-### Language Stats.
+<h2>Language Stats.</h2>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=audrey-roe&theme=light)](https://github.com/audrey-roe)
 
-### Profile Stats.
+<h2>Profile Stats.</h2>
 
 <!-- ![Audrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=audrey-roe&show_icons=true&theme=radical) -->
 [![Audrey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=audrey-roe&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/audrey-roe)
